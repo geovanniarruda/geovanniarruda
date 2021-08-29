@@ -7,7 +7,9 @@
 <hr>
 <div>
   <a href="https://github.com/geovanniarruda">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=geovanniarruda&&show_icons=true&theme=tokyonight&hide=contribs,issues"/>
+  <img align= "center" height="150em" src="https://github-readme-stats.vercel.app/api?username=geovanniarruda&&show_icons=true&theme=tokyonight&hide=contribs,issues"/>
+  <img align= "center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanniarruda&layout=compact"/>
+
 
 </div>
 
