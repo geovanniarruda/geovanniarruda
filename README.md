@@ -7,8 +7,8 @@
 <hr>
 <div>
   <a href="https://github.com/geovanniarruda">
-  <img align = "left" height="100em" src="https://github-readme-stats.vercel.app/api?username=geovanniarruda&&show_icons=true&theme=tokyonight&hide=contribs,issues"/>
-  <img align= "right" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanniarruda&layout=compact"/>
+  <img align = "left" height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=geovanniarruda&&show_icons=true&theme=tokyonight&hide=contribs,issues"/>
+  <img align= "right" height="180em"  width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanniarruda&layout=compact"/>
 </div>
 
 
