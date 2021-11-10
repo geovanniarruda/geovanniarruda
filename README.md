@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Front-End
-- 🌱 I’m currently learning JavaScript, HTML and CSS
+- 🌱 I’m currently learning JavaScript, Angular and Python
 <hr>
 <div>
   <a href="https://github.com/geovanniarruda">
